@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Sangaviraghavan/Movie-app/static/css/main.5bb7c474.css",
+    "main.js": "/Sangaviraghavan/Movie-app/static/js/main.ff38a845.js",
+    "static/js/787.fd7efbd6.chunk.js": "/Sangaviraghavan/Movie-app/static/js/787.fd7efbd6.chunk.js",
+    "index.html": "/Sangaviraghavan/Movie-app/index.html",
+    "main.5bb7c474.css.map": "/Sangaviraghavan/Movie-app/static/css/main.5bb7c474.css.map",
+    "main.ff38a845.js.map": "/Sangaviraghavan/Movie-app/static/js/main.ff38a845.js.map",
+    "787.fd7efbd6.chunk.js.map": "/Sangaviraghavan/Movie-app/static/js/787.fd7efbd6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bb7c474.css",
+    "static/js/main.ff38a845.js"
+  ]
+}
